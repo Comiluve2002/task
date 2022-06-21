@@ -224,11 +224,5 @@ form{
     left: 60px;
 }
 
-@media screen and (max-width: 500px){
-    header{
-        padding: 0 10px;
-    }
-}
-
 
 
